@@ -38,4 +38,38 @@ Devsearch is a web application designed for developers to showcase their project
 1. **Clone the repository:**
 
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/JACKJATIN/DevSearch-By-Jack.git
+
+2. **Move to Directory DevSearch-By-Jack**
+
+   ```bash
+   cd ./DevSearch-By-Jack
+   
+3. **Make Virtual Enviroment**
+
+   ```bash
+   python -m venv "Env Name"
+
+4. **Make Virtual Enviroment**
+
+   ```bash
+   python -m venv "Env Name"
+
+5. **Active Virtul Enviroment**
+
+   ```bash
+   '/"Env-Name/Scripts/activate
+
+6. **Install Dependencies**
+
+   ```bash
+   pip intall -r ./requirements.txt
+
+6. **Replace Enviroment Variables or set them **
+
+7. **Run Project**
+
+   ```bash
+   python ./manage.py runserver
+
+## Access the application at http://localhost:8000 in your web browser.   
