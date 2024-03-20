@@ -29,8 +29,8 @@ DEBUG = False
 ALLOWED_HOSTS = ['devsearch-by-jack.onrender.com','localhost', '127.0.0.1']
 
 CSRF_TRUSTED_ORIGINS = [
-    'https://devsearch-by-jack.onrender.com/',
-    
+    'https://devsearch-by-jack.onrender.com',
+    # Add other trusted origins if necessary
 ]
 # Application definition
 
